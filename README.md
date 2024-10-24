@@ -7,8 +7,11 @@ The SnapUP project demonstrates the skill of creating and delivering compelling 
 The main objectives of this project include:
 
 Data Creation: Gather and merge large datasets that can be analyzed for trends, patterns, and insights.
+
 Data Analysis: Utilize statistical and analytical techniques to process and extract meaningful information from the data.
+
 Machine Learning Solutions: Implement ML algorithms to enhance the analysis, predict outcomes, or classify data points, adding depth to the storytelling.
+
 Storytelling: Craft a narrative that effectively communicates the findings, making complex data accessible and interesting to the audience.
 
 **Key Features:**
