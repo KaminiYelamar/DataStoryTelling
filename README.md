@@ -28,9 +28,9 @@ Presentation: Techniques for delivering the story, which could include reports, 
 
 **Technologies Used:**
 
-Programming Languages: Python (for data manipulation and analysis), SQL (for database management).
-Libraries: Pandas, NumPy, Scikit-learn (for machine learning), Matplotlib, Seaborn (for visualization).
-Tools: Jupyter Notebook for interactive coding and presentation, possibly web frameworks for interactive storytelling (like Flask or Dash).
+1. Programming Languages: Python (for data manipulation and analysis), SQL (for database management).
+2. Libraries: Pandas, NumPy, Scikit-learn (for machine learning), Matplotlib, Seaborn (for visualization).
+3. Tools: Jupyter Notebook for interactive coding and presentation, possibly web frameworks for interactive storytelling (like Flask or Dash).
 
 **Conclusion:**
 
