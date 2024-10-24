@@ -17,9 +17,13 @@ Storytelling: Craft a narrative that effectively communicates the findings, maki
 **Key Features:**
 
 Data Generation: Techniques used to create synthetic datasets or leverage existing big data sources.
+
 Analytical Methods: Various methods applied to analyze the data, including statistical analysis, data visualization, and exploratory data analysis (EDA).
+
 ML Integration: Application of machine learning algorithms, such as regression, classification, or clustering, to provide insights or predictions.
+
 Visualization: Use of data visualization tools (like Matplotlib, Seaborn, or Tableau) to create intuitive and impactful graphics that support the narrative.
+
 Presentation: Techniques for delivering the story, which could include reports, dashboards, or interactive web applications.
 
 **Technologies Used:**
